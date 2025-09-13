@@ -3,7 +3,7 @@ import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 
 export const metadata = {
-  title: "Premium Car Rental Service",
+  title: "Premium Car Rental Service App",
   description: "Book cars online with ease and flexibility through our car rental platform.",
 };
 
